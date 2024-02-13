@@ -1,0 +1,23 @@
+Nhóm: ...
+
+Nỗ lực của mỗi thành viên
+Phan Tuấn Kiệt:		100%
+Nguyễn Tuấn Huy:	100%
+Nguyễn Phan Đình Huy:	100%
+Lê Ngọc Vinh:		100%
+Dương Hải Lâm:		100%
+
+Quá trình làm việc:
+Trước ngày 19/11/2023: Nhóm tự đọc và tìm hiểu về đề tài bài tập lớn.
+
+19/11/2023 - 14h: Họp phân chia công việc, tổng quan những việc cần làm, chia thành 2 nhóm, 1 nhóm giải quyết problem 1 và 1 nhóm giải quyết problem 2
+- Nguyễn Tuấn Huy, Nguyễn Phan Đình Huy: giải quyết problem 1 + Soạn báo cáo latex
+- Phan Tuấn Kiệt, Dương Hải Lâm: giải quyết problem 2 + Soạn dàn ý báo cáo. 
+- Lê Ngọc Vinh: hỗ trợ problem 1 + problem 2
+
+28/11/2023 - 20h: Nhóm problem 1 trình bày kết quả đã làm được và thảo luận những vấn đề của mọi người.
+
+30/11/2023 - 20h: Nhóm problem 2 trình bày kết quả đã làm được và thảo luận những vấn đề của mọi người.
+
+Sau ngày 30/11/2023: Viết báo cáo và chỉnh sửa sai sót.
+ 
